@@ -1,0 +1,4 @@
+numpy==1.24.3
+opencv-python-headless==4.5.5.64
+opencv-contrib-python-headless==4.5.5.64
+ultralytics==8.0.0  # Adjust this version as per the installed version of the YOLO package
